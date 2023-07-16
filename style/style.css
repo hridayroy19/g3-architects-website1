@@ -1,0 +1,10 @@
+/* add work sens font  */
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@1,300&family=Raleway:ital,wght@1,200&family=Work+Sans:wght@400;600;800&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Raleway', sans-serif;
+    font-family: 'Work Sans', sans-serif;
+}
